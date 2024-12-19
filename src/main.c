@@ -7,6 +7,9 @@
 
 #include "snake.h"
 
+// TODO: check memory allocations (if ptr == NULL, etc)
+// which is good form but oh-so-unnecessary for this tiny program
+
 #define K 1000
 
 #define GRAPHICAL_X_MULTIPLIER 2
