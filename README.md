@@ -1,1 +1,1 @@
-Terrible snake, rewrite of [snake.cpp](https://github.com/saltlakrits/snake.cpp) but in C
+Terrible snake, rewrite of a C++ snake game in C
